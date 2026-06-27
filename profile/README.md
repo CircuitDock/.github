@@ -1,8 +1,7 @@
-# .github
 # CircuitDock
 
 <p align="center">
-  <img src="docs/images/logo.png" alt="CircuitDock Logo" width="200">
+  <img src="images/logo.png" alt="CircuitDock Logo" width="200">
 </p>
 
 <p align="center">
